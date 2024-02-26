@@ -1,0 +1,47 @@
+.segment-card {
+  background: #f1f4f6;
+}
+.ant-tabs {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+}
+.ant-tabs .ant-tabs-tab {
+  padding: 0;
+}
+.ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #5d748a;
+  background-color: #fff;
+  padding: 10px 30px;
+}
+.ant-tabs .ant-tabs-tab-btn {
+  padding: 10px 30px;  
+  background-color: #e5ebef;
+  color: #5d748a;
+  font-weight: 600;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+.ant-tabs .ant-tabs-tab+.ant-tabs-tab {
+  margin: 0 0 0 7px;
+}
+.ant-table-wrapper .ant-table-thead >tr>th, :where(.css-dev-only-do-not-override-1rqnfsa).ant-table-wrapper .ant-table-thead >tr>td {
+  color: #5d748a;
+  font-weight: 600;
+  background: #f7f9fa;
+  border-bottom: 1px solid #f0f0f0;
+}
+.ant-tabs-top >.ant-tabs-nav, :where(.css-dev-only-do-not-override-1rqnfsa).ant-tabs-bottom >.ant-tabs-nav, :where(.css-dev-only-do-not-override-1rqnfsa).ant-tabs-top >div>.ant-tabs-nav, :where(.css-dev-only-do-not-override-1rqnfsa).ant-tabs-bottom >div>.ant-tabs-nav {
+  margin: 0;
+}
+:where(.css-dev-only-do-not-override-1rqnfsa).ant-table-wrapper .ant-table {
+  padding-top: 20px;
+  background: #ffffff;
+  border-radius: 0;
+}
+:where(.css-dev-only-do-not-override-1rqnfsa).ant-table-wrapper .ant-table-container table>thead>tr:first-child >*:first-child {
+  border-start-start-radius: 0;
+}
+:where(.css-dev-only-do-not-override-1rqnfsa).ant-table-wrapper .ant-table-container table>thead>tr:first-child >*:last-child {
+  border-start-end-radius: 0px;
+}

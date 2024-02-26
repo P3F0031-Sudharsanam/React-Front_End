@@ -1,0 +1,27 @@
+:where(.css-dev-only-do-not-override-1rqnfsa).ant-layout .ant-layout-sider {
+    background: #fff;
+}
+:where(.css-dev-only-do-not-override-1rqnfsa).ant-layout-header {
+    background: #fff;
+}
+:where(.css-dev-only-do-not-override-1rqnfsa).ant-menu-dark, :where(.css-dev-only-do-not-override-1rqnfsa).ant-menu-dark>.ant-menu {
+    background: #5d748a;
+}
+.center{
+    text-align: center;
+}
+.color-grey{
+    color: #5d748a;
+}
+.logout{
+    float: right;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+.ver-middle{
+    vertical-align: middle;
+    margin-top: 30px;
+}
+.loginForm{
+    margin-top: 40%;
+}
